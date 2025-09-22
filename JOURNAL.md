@@ -17,3 +17,7 @@ Today, I started to wo![3d-fillament.png](/rails/active_storage/blobs/redirect/e
 ![3d-fillament.png](/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MywicHVyIjoiYmxvYl9pZCJ9fQ==--22d62038057783f495126c3a45b436e27a345ebe/3d-fillament.png)
 rk on my project  
 
+## 9/22/2025 - Ts went to the beach  
+
+I stupidly design the high side switch oof the USBPD module (to turn it on an off) with a pretty specific chip with new features, but it went out of stock by the time I actually finished everything, so I spent basically the entire day looking for alturnatives until I stupidly realized that I can just connect a P channel MOSFET driven low by a N channel MOSFET with a pullup resistor on the gate![image2 (4).png](https://localhost:3000/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NiwicHVyIjoiYmxvYl9pZCJ9fQ==--78df3f48d3f0a41cb576126b238c304331770db3/image2%20(4).png)  
+
